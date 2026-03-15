@@ -54,8 +54,7 @@ public
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/react-quote-generator.git
-```
+git clone https://github.com/ViJaya-kh22/react-quote-generator.git
 
 Install dependencies
 
